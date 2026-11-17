@@ -1,8 +1,8 @@
-# Olá! Eu sou o Agostinho👋
+# Olá! Sou o Agostinho 👋
 
-||| Desenvolvedor, movido pela curiosidade e pela vontade de criar soluções digitais.  
-|| A transformar ideias em projetos com PHP, Laravel e MySQL.  
-| Sempre a aprender, a evoluir e a explorar novas possibilidades através da tecnologia.
+||| Desenvolvedor apaixonado por tecnologia, movido pela curiosidade e pelo desejo de resolver problemas.  
+|| Transformo ideias em projetos com PHP, Laravel e MySQL.  
+| Estou sempre a aprender e a desenvolver soluções digitais úteis.
 
 ## Encontra-me
 
@@ -26,7 +26,7 @@
 
 ## | A construir o meu caminho na tecnologia
 
-> Cada projeto é uma oportunidade para aprender, experimentar e transformar ideias em soluções digitais.
+> Cada projeto é uma oportunidade para aprender, experimentar e criar soluções que transformam ideias em realidade.
 
 **Actualmente a explorar:** PHP · Laravel · MySQL · Python
 
